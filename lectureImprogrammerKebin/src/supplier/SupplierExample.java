@@ -1,3 +1,5 @@
+package supplier;
+
 import java.util.concurrent.TimeUnit;
 import java.util.function.Supplier;
 
