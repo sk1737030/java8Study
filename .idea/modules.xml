@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java8Study.iml" filepath="$PROJECT_DIR$/java8Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectureImprogrammerKebin/lectureImprogrammerKebin.iml" filepath="$PROJECT_DIR$/lectureImprogrammerKebin/lectureImprogrammerKebin.iml" />
+    </modules>
+  </component>
+</project>
