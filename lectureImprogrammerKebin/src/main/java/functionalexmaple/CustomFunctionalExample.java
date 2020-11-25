@@ -1,4 +1,4 @@
-package functional;
+package functionalexmaple;
 
 public class CustomFunctionalExample {
 

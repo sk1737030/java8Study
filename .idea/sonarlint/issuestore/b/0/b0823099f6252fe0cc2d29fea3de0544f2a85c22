@@ -1,0 +1,8 @@
+
+M
+java:S1068"+Remove this unused "product" private field.(„¼”Úùÿÿÿÿ8æ¿®ìß.
+N
+java:S1068",Remove this unused "quantity" private field.(­ŞĞòşÿÿÿÿ8æ¿®ìß.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ôÇ
+H
+java:S1068"&Remove this unused "id" private field.(şÓî«şÿÿÿÿ8æ¿®ìß.

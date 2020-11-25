@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ôÇ
+i
+java:S1128"LRemove this unused import 'jdk.nashorn.internal.objects.annotations.Getter'.(éÌ’«8ÃÍìß.
+n
+java:S1128"LRemove this unused import 'jdk.nashorn.internal.objects.annotations.Setter'.(µŠÚşÿÿÿÿ8ÃÍìß.

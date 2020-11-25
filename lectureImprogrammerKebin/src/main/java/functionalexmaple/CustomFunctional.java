@@ -1,4 +1,4 @@
-package functional;
+package functionalexmaple;
 
 @FunctionalInterface
 public interface CustomFunctional<T1, T2, T3, R> {

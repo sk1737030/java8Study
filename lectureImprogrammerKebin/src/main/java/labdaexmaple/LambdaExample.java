@@ -1,4 +1,4 @@
-package labda;
+package labdaexmaple;
 
 import java.util.ArrayList;
 import java.util.Arrays;

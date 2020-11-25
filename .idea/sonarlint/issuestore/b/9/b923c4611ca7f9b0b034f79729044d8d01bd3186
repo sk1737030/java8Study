@@ -1,0 +1,21 @@
+
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ÊÄÿÿÿÿÿ8ãè©ìß.
+I
+java:S1612E",Replace this lambda with a method reference.(ÜİôÂ8ŸØ¥ìß.
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(Ê¨úûÿÿÿÿ8ò¦ìß.
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(¢ÓÔ½
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ş»ùáşÿÿÿÿ
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ÕÆÏ±8×õÈéß.
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(°×ä­
+T	java:S1069"9Replace this use of System.out or System.err by a logger.(ÜÓÔx8µ²Åéß.
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(°×ä­
+T	java:S106:"9Replace this use of System.out or System.err by a logger.(ó³ë8ŒŞşèß.
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ò‹ï¬ùÿÿÿÿ8Ôî£ìß.
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ë‹Á¥ıÿÿÿÿ
+I
+java:S1612H",Replace this lambda with a method reference.(üßÂ®8ãè©ìß.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ôÇ
+I
+java:S1612=",Replace this lambda with a method reference.(¼ä8–Êèéß.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸´”
