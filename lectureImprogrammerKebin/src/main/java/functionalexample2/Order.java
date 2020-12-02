@@ -19,6 +19,13 @@ public class Order {
         return total(items, item -> item.getItemTotal());
     }
 
+    public BigDecimal totalPriceStream() {
+        return items.stream()
+                .map(item -> item.getItemTotal())
+                .reduce(BigDecimal.ZERO, (p1, p2) -> p1.add(p2));
+
+    }
+
     private static <T> BigDecimal total(List<T> list, Function<T, BigDecimal> mapper) {
         BigDecimal total = BigDecimal.ZERO;
         for (final T t : list) {
