@@ -68,6 +68,7 @@ public class StreamExamples5Parallel {
                     return i;
                 })
                 .forEach(i -> System.out.println(i));
+        ;
         System.out.println(System.currentTimeMillis() - start2);
     }
 }
